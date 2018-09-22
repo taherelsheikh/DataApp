@@ -1,5 +1,6 @@
 
-![](https://github.com/taherelsheikh/DataApp/blob/gh-pages/src/taking_a_break.svg)
+
+<img src="https://github.com/taherelsheikh/DataApp/blob/gh-pages/src/taking_a_break.svg" width="200" height="400" />
 
 # DataApp 
 
