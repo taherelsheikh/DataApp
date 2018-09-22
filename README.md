@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/taherelsheikh/DataApp/blob/gh-pages/src/taking_a_break.svg =250x250)
+![alt text](https://github.com/taherelsheikh/DataApp/blob/gh-pages/src/taking_a_break.svg=250x250)
 
 # DataApp 
 
