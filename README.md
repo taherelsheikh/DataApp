@@ -1,8 +1,5 @@
 
 # DataApp 
 
-A web app built in React to make data migration easier
-
-### Check it out 
-https://taherelsheikh.github.io/DataApp/
+A web app built in React to make data migration easier, https://taherelsheikh.github.io/DataApp/
 
